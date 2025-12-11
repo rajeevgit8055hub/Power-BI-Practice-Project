@@ -191,7 +191,7 @@ This dataset is **dummy practice data**, used widely in learning.
 ## <span id="dashboard-snapshots">🖼 Project Snapshots</span>  
 
 ![Amazon Global Superstore](Dashboard%20(1).jpg)  
-![Amazon Global Superstore](Dashboard$20(2).jpg)  
+![Amazon Global Superstore](Dashboard%20(2).jpg)  
 ![Amazon Global Superstore](Dashboard%20(3).jpg)  
 ![Amazon Global Superstore](Dashboard%20(4).jpg)
 

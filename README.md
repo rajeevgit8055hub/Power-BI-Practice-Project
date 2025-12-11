@@ -179,10 +179,10 @@ This dataset is **dummy practice data**, used widely in learning.
 
 ## <span id="contact">📬 Connect with Me</span>  
 
-- 📧 **Email**: rajeevtiwari8055@gmail.com  
-- 💻 **GitHub**: github.com/rajeevgit8055hub  
-- 🔗 **LinkedIn**: linkedin.com/in/rajeev-tiwari123  
-- 🌐 **Website**: rajeevgit8055hub.github.io/rajeevtiwari.github.io  
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
 
 🤝 *Thanks for exploring my Amazon Superstore analytics project!*  
 
